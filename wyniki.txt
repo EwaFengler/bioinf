@@ -1,0 +1,583 @@
+nazwa pliku: 58.300-60
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 240
+
+Najlepsze rozwiązanie zostało złożone z 239 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 30.44145965576172 sekund.
+
+
+nazwa pliku: 68.400-80
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 320
+
+Najlepsze rozwiązanie zostało złożone z 320 wyrazów.
+Znalezione zostało w 11. iteracji.
+Ogółem wykonano 41 iteracji.
+Obliczenia trwały 51.632845401763916 sekund.
+
+
+nazwa pliku: 10.500-100
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 400
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 54.9880211353302 sekund.
+
+
+nazwa pliku: 55.300-60
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 240
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 29.288951635360718 sekund.
+
+
+nazwa pliku: 53.500-100
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 400
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 51.98626255989075 sekund.
+
+
+nazwa pliku: 35.200-40
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 160
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 18.727415084838867 sekund.
+
+
+nazwa pliku: 62.400-80
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 320
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 40.68262004852295 sekund.
+
+
+nazwa pliku: 20.300-120
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 180
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 22.205402851104736 sekund.
+
+
+nazwa pliku: 62.400-160
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 240
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 28.710145473480225 sekund.
+
+
+nazwa pliku: 10.500-200
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 300
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 38.759153604507446 sekund.
+
+
+nazwa pliku: 55.300-120
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 180
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 21.003791332244873 sekund.
+
+
+nazwa pliku: 53.500-200
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 300
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 37.564380168914795 sekund.
+
+
+nazwa pliku: 20.300-60
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 240
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 29.921959400177002 sekund.
+
+
+nazwa pliku: 55.400-80
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 320
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 40.93076252937317 sekund.
+
+
+nazwa pliku: 68.400-160
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 240
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 28.746231079101562 sekund.
+
+
+nazwa pliku: 9.200-40
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 160
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 19.40303349494934 sekund.
+
+
+nazwa pliku: 25.500-200
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 300
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 37.58676075935364 sekund.
+
+
+nazwa pliku: 25.500-100
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 400
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 52.97874045372009 sekund.
+
+
+nazwa pliku: 9.200-80
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 120
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 14.252620935440063 sekund.
+
+
+nazwa pliku: 35.200-80
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 120
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 13.043433666229248 sekund.
+
+
+nazwa pliku: 55.400-160
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 240
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 27.177008628845215 sekund.
+
+
+nazwa pliku: 18.200-40
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 160
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 19.012930154800415 sekund.
+
+
+nazwa pliku: 18.200-80
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 120
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 13.09350299835205 sekund.
+
+
+nazwa pliku: 58.300-120
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 180
+
+Najlepsze rozwiązanie zostało złożone z 400 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 21.244662046432495 sekund.
+
+
+nazwa pliku: 59.500-2
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 498
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 71.5823483467102 sekund.
+
+
+nazwa pliku: 144.500-12
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 488
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 70.1605212688446 sekund.
+
+
+nazwa pliku: 28.500-18
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 482
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 68.43752765655518 sekund.
+
+
+nazwa pliku: 113.500-8
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 492
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 70.26814031600952 sekund.
+
+
+nazwa pliku: 34.500-32
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 468
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 64.9688982963562 sekund.
+
+
+nazwa pliku: 62.400+40
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 440
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 50.33647418022156 sekund.
+
+
+nazwa pliku: 25.500+50
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 550
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 65.94287371635437 sekund.
+
+
+nazwa pliku: 18.200+20
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 220
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 20.611387491226196 sekund.
+
+
+nazwa pliku: 58.300+30
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 330
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 34.07430911064148 sekund.
+
+
+nazwa pliku: 20.300+30
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 330
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 33.97295427322388 sekund.
+
+
+nazwa pliku: 68.400+40
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 440
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 48.466697216033936 sekund.
+
+
+nazwa pliku: 9.200+20
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 220
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 22.15075445175171 sekund.
+
+
+nazwa pliku: 53.500+50
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 550
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 65.60080313682556 sekund.
+
+
+nazwa pliku: 55.400+40
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 440
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 49.300177335739136 sekund.
+
+
+nazwa pliku: 10.500+50
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 550
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 66.10783910751343 sekund.
+
+
+nazwa pliku: 55.300+30
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 330
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 35.595542192459106 sekund.
+
+
+nazwa pliku: 35.200+20
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 220
+
+Najlepsze rozwiązanie zostało złożone z 498 wyrazów.
+Znalezione zostało w 3. iteracji.
+Ogółem wykonano 33 iteracji.
+Obliczenia trwały 22.21691584587097 sekund.
+
+
+nazwa pliku: 10.500+200
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 700
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 104.56075119972229 sekund.
+
+
+nazwa pliku: 58.300+120
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 420
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 53.91612100601196 sekund.
+
+
+nazwa pliku: 18.200+80
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 280
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 30.934891939163208 sekund.
+
+
+nazwa pliku: 55.400+160
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 560
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 77.39779925346375 sekund.
+
+
+nazwa pliku: 53.500+200
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 700
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 105.95601177215576 sekund.
+
+
+nazwa pliku: 9.200+80
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 280
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 32.10662794113159 sekund.
+
+
+nazwa pliku: 55.300+120
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 420
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 53.00988960266113 sekund.
+
+
+nazwa pliku: 25.500+200
+długość słowa: 10
+oryginalna długość sekwencji: 509
+liczba oligonukleotydów: 700
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 104.41931509971619 sekund.
+
+
+nazwa pliku: 35.200+80
+długość słowa: 10
+oryginalna długość sekwencji: 209
+liczba oligonukleotydów: 280
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 31.61445665359497 sekund.
+
+
+nazwa pliku: 20.300+120
+długość słowa: 10
+oryginalna długość sekwencji: 309
+liczba oligonukleotydów: 420
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 51.5288290977478 sekund.
+
+
+nazwa pliku: 68.400+160
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 560
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 77.56589031219482 sekund.
+
+
+nazwa pliku: 62.400+160
+długość słowa: 10
+oryginalna długość sekwencji: 409
+liczba oligonukleotydów: 560
+
+Najlepsze rozwiązanie zostało złożone z 500 wyrazów.
+Znalezione zostało w 14. iteracji.
+Ogółem wykonano 44 iteracji.
+Obliczenia trwały 76.95651006698608 sekund.
+
+
