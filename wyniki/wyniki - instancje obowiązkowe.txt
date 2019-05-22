@@ -6,7 +6,7 @@ liczba oligonukleotydów: 400
 Najlepsze rozwi¹zanie zosta³o z³o¿one z 400 wyrazów.
 Znalezione zosta³o w 3. iteracji.
 Ogó³em wykonano 33 iteracji.
-Obliczenia trwa³y 22.638882637023926 sekund.
+Obliczenia trwa³y 38.85621690750122 sekund.
 
 
 nazwa pliku: 10.500-200
@@ -14,10 +14,10 @@ d³ugoœæ s³owa: 10
 oryginalna d³ugoœæ sekwencji: 509
 liczba oligonukleotydów: 300
 
-Najlepsze rozwi¹zanie zosta³o z³o¿one z 296 wyrazów.
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 299 wyrazów.
 Znalezione zosta³o w 3. iteracji.
 Ogó³em wykonano 33 iteracji.
-Obliczenia trwa³y 15.266601324081421 sekund.
+Obliczenia trwa³y 26.224210739135742 sekund.
 
 
 nazwa pliku: 18.200-40
@@ -25,10 +25,10 @@ d³ugoœæ s³owa: 10
 oryginalna d³ugoœæ sekwencji: 209
 liczba oligonukleotydów: 160
 
-Najlepsze rozwi¹zanie zosta³o z³o¿one z 157 wyrazów.
-Znalezione zosta³o w 2. iteracji.
-Ogó³em wykonano 32 iteracji.
-Obliczenia trwa³y 7.251990079879761 sekund.
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 160 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 12.87103819847107 sekund.
 
 
 nazwa pliku: 18.200-80
@@ -39,6 +39,545 @@ liczba oligonukleotydów: 120
 Najlepsze rozwi¹zanie zosta³o z³o¿one z 117 wyrazów.
 Znalezione zosta³o w 3. iteracji.
 Ogó³em wykonano 33 iteracji.
-Obliczenia trwa³y 5.155907392501831 sekund.
+Obliczenia trwa³y 8.754714012145996 sekund.
+
+
+nazwa pliku: 20.300-120
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 180
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 178 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 14.705143451690674 sekund.
+
+
+nazwa pliku: 20.300-60
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 240
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 240 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 20.596686840057373 sekund.
+
+
+nazwa pliku: 25.500-100
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 400
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 399 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 37.56611084938049 sekund.
+
+
+nazwa pliku: 25.500-200
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 300
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 299 wyrazów.
+Znalezione zosta³o w 38. iteracji.
+Ogó³em wykonano 68 iteracji.
+Obliczenia trwa³y 53.29982662200928 sekund.
+
+
+nazwa pliku: 35.200-40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 160
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 159 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 12.657951831817627 sekund.
+
+
+nazwa pliku: 35.200-80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 120
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 119 wyrazów.
+Znalezione zosta³o w 8. iteracji.
+Ogó³em wykonano 38 iteracji.
+Obliczenia trwa³y 10.063282012939453 sekund.
+
+
+nazwa pliku: 53.500-100
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 400
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 391 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 37.488755226135254 sekund.
+
+
+nazwa pliku: 53.500-200
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 300
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 300 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 27.914573669433594 sekund.
+
+
+nazwa pliku: 55.300-120
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 180
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 180 wyrazów.
+Znalezione zosta³o w 4. iteracji.
+Ogó³em wykonano 34 iteracji.
+Obliczenia trwa³y 14.713128566741943 sekund.
+
+
+nazwa pliku: 55.300-60
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 240
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 237 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 20.172070503234863 sekund.
+
+
+nazwa pliku: 55.400-160
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 240
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 236 wyrazów.
+Znalezione zosta³o w 40. iteracji.
+Ogó³em wykonano 70 iteracji.
+Obliczenia trwa³y 39.83381676673889 sekund.
+
+
+nazwa pliku: 55.400-80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 320
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 320 wyrazów.
+Znalezione zosta³o w 8. iteracji.
+Ogó³em wykonano 38 iteracji.
+Obliczenia trwa³y 32.605323791503906 sekund.
+
+
+nazwa pliku: 58.300-120
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 180
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 178 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 14.22302508354187 sekund.
+
+
+nazwa pliku: 58.300-60
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 240
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 236 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 20.16897439956665 sekund.
+
+
+nazwa pliku: 62.400-160
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 240
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 240 wyrazów.
+Znalezione zosta³o w 34. iteracji.
+Ogó³em wykonano 64 iteracji.
+Obliczenia trwa³y 38.110085010528564 sekund.
+
+
+nazwa pliku: 62.400-80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 320
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 320 wyrazów.
+Znalezione zosta³o w 4. iteracji.
+Ogó³em wykonano 34 iteracji.
+Obliczenia trwa³y 29.078885078430176 sekund.
+
+
+nazwa pliku: 68.400-160
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 240
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 235 wyrazów.
+Znalezione zosta³o w 16. iteracji.
+Ogó³em wykonano 46 iteracji.
+Obliczenia trwa³y 26.849037170410156 sekund.
+
+
+nazwa pliku: 68.400-80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 320
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 320 wyrazów.
+Znalezione zosta³o w 4. iteracji.
+Ogó³em wykonano 34 iteracji.
+Obliczenia trwa³y 29.712221384048462 sekund.
+
+
+nazwa pliku: 9.200-40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 160
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 160 wyrazów.
+Znalezione zosta³o w 2. iteracji.
+Ogó³em wykonano 32 iteracji.
+Obliczenia trwa³y 12.726823091506958 sekund.
+
+
+nazwa pliku: 9.200-80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 120
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 120 wyrazów.
+Znalezione zosta³o w 2. iteracji.
+Ogó³em wykonano 32 iteracji.
+Obliczenia trwa³y 9.26526403427124 sekund.
+
+
+nazwa pliku: 113.500-8
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 492
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 492 wyrazów.
+Znalezione zosta³o w 17. iteracji.
+Ogó³em wykonano 47 iteracji.
+Obliczenia trwa³y 70.35809350013733 sekund.
+
+
+nazwa pliku: 144.500-12
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 488
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 488 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 49.514384508132935 sekund.
+
+
+nazwa pliku: 28.500-18
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 482
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 482 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 50.54744601249695 sekund.
+
+
+nazwa pliku: 34.500-32
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 468
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 468 wyrazów.
+Znalezione zosta³o w 6. iteracji.
+Ogó³em wykonano 36 iteracji.
+Obliczenia trwa³y 50.00396132469177 sekund.
+
+
+nazwa pliku: 59.500-2
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 498
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 498 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 50.05488085746765 sekund.
+
+
+nazwa pliku: 10.500+50
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 550
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 484 wyrazów.
+Znalezione zosta³o w 61. iteracji.
+Ogó³em wykonano 91 iteracji.
+Obliczenia trwa³y 129.7306580543518 sekund.
+
+
+nazwa pliku: 18.200+20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 220
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 192 wyrazów.
+Znalezione zosta³o w 7. iteracji.
+Ogó³em wykonano 37 iteracji.
+Obliczenia trwa³y 15.598965883255005 sekund.
+
+
+nazwa pliku: 20.300+30
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 330
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 293 wyrazów.
+Znalezione zosta³o w 50. iteracji.
+Ogó³em wykonano 80 iteracji.
+Obliczenia trwa³y 58.43478751182556 sekund.
+
+
+nazwa pliku: 25.500+50
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 550
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 472 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 51.007593631744385 sekund.
+
+
+nazwa pliku: 35.200+20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 220
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 200 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 16.08857011795044 sekund.
+
+
+nazwa pliku: 53.500+50
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 550
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 476 wyrazów.
+Znalezione zosta³o w 25. iteracji.
+Ogó³em wykonano 55 iteracji.
+Obliczenia trwa³y 78.42608547210693 sekund.
+
+
+nazwa pliku: 55.300+30
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 330
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 291 wyrazów.
+Znalezione zosta³o w 8. iteracji.
+Ogó³em wykonano 38 iteracji.
+Obliczenia trwa³y 28.241942167282104 sekund.
+
+
+nazwa pliku: 55.400+40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 440
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 394 wyrazów.
+Znalezione zosta³o w 52. iteracji.
+Ogó³em wykonano 82 iteracji.
+Obliczenia trwa³y 87.1134238243103 sekund.
+
+
+nazwa pliku: 58.300+30
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 330
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 291 wyrazów.
+Znalezione zosta³o w 33. iteracji.
+Ogó³em wykonano 63 iteracji.
+Obliczenia trwa³y 47.695255517959595 sekund.
+
+
+nazwa pliku: 62.400+40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 440
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 388 wyrazów.
+Znalezione zosta³o w 10. iteracji.
+Ogó³em wykonano 40 iteracji.
+Obliczenia trwa³y 42.596240758895874 sekund.
+
+
+nazwa pliku: 68.400+40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 440
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 384 wyrazów.
+Znalezione zosta³o w 33. iteracji.
+Ogó³em wykonano 63 iteracji.
+Obliczenia trwa³y 64.60479545593262 sekund.
+
+
+nazwa pliku: 9.200+20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 220
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 200 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 15.812084674835205 sekund.
+
+
+nazwa pliku: 10.500+200
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 700
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 500 wyrazów.
+Znalezione zosta³o w 8. iteracji.
+Ogó³em wykonano 38 iteracji.
+Obliczenia trwa³y 66.3745059967041 sekund.
+
+
+nazwa pliku: 18.200+80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 280
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 198 wyrazów.
+Znalezione zosta³o w 26. iteracji.
+Ogó³em wykonano 56 iteracji.
+Obliczenia trwa³y 27.48189377784729 sekund.
+
+
+nazwa pliku: 20.300+120
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 420
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 300 wyrazów.
+Znalezione zosta³o w 22. iteracji.
+Ogó³em wykonano 52 iteracji.
+Obliczenia trwa³y 43.70715618133545 sekund.
+
+
+nazwa pliku: 25.500+200
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 700
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 500 wyrazów.
+Znalezione zosta³o w 24. iteracji.
+Ogó³em wykonano 54 iteracji.
+Obliczenia trwa³y 99.10163521766663 sekund.
+
+
+nazwa pliku: 35.200+80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 280
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 200 wyrazów.
+Znalezione zosta³o w 17. iteracji.
+Ogó³em wykonano 47 iteracji.
+Obliczenia trwa³y 24.678592205047607 sekund.
+
+
+nazwa pliku: 53.500+200
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 700
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 495 wyrazów.
+Znalezione zosta³o w 7. iteracji.
+Ogó³em wykonano 37 iteracji.
+Obliczenia trwa³y 71.94066309928894 sekund.
+
+
+nazwa pliku: 55.300+120
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 420
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 300 wyrazów.
+Znalezione zosta³o w 12. iteracji.
+Ogó³em wykonano 42 iteracji.
+Obliczenia trwa³y 36.288490772247314 sekund.
+
+
+nazwa pliku: 55.400+160
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 560
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 398 wyrazów.
+Znalezione zosta³o w 7. iteracji.
+Ogó³em wykonano 37 iteracji.
+Obliczenia trwa³y 48.962913036346436 sekund.
+
+
+nazwa pliku: 58.300+120
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 420
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 300 wyrazów.
+Znalezione zosta³o w 25. iteracji.
+Ogó³em wykonano 55 iteracji.
+Obliczenia trwa³y 47.63338613510132 sekund.
+
+
+nazwa pliku: 62.400+160
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 560
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 400 wyrazów.
+Znalezione zosta³o w 26. iteracji.
+Ogó³em wykonano 56 iteracji.
+Obliczenia trwa³y 72.33792734146118 sekund.
+
+
+nazwa pliku: 68.400+160
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 560
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 400 wyrazów.
+Znalezione zosta³o w 17. iteracji.
+Ogó³em wykonano 47 iteracji.
+Obliczenia trwa³y 61.72615432739258 sekund.
+
+
+nazwa pliku: 9.200+80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 280
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 200 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 17.97404384613037 sekund.
 
 
