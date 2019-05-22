@@ -1,0 +1,44 @@
+nazwa pliku: 10.500-100
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 400
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 400 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 22.638882637023926 sekund.
+
+
+nazwa pliku: 10.500-200
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 300
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 296 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 15.266601324081421 sekund.
+
+
+nazwa pliku: 18.200-40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 160
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 157 wyrazów.
+Znalezione zosta³o w 2. iteracji.
+Ogó³em wykonano 32 iteracji.
+Obliczenia trwa³y 7.251990079879761 sekund.
+
+
+nazwa pliku: 18.200-80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 120
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 117 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 5.155907392501831 sekund.
+
+
