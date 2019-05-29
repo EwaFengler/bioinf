@@ -1,0 +1,407 @@
+nazwa pliku: instances/custom/01.100-5
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 109
+liczba oligonukleotydów: 95
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 95 wyrazów.
+Znalezione zosta³o w 2. iteracji.
+Ogó³em wykonano 32 iteracji.
+Obliczenia trwa³y 4.437204360961914 sekund.
+
+
+nazwa pliku: instances/custom/02.100-10
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 109
+liczba oligonukleotydów: 90
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 90 wyrazów.
+Znalezione zosta³o w 2. iteracji.
+Ogó³em wykonano 32 iteracji.
+Obliczenia trwa³y 4.140331029891968 sekund.
+
+
+nazwa pliku: instances/custom/03.200-10
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 190
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 190 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 9.69194221496582 sekund.
+
+
+nazwa pliku: instances/custom/04.300-20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 280
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 280 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 14.983294486999512 sekund.
+
+
+nazwa pliku: instances/custom/05.300-10
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 290
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 290 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 15.78012990951538 sekund.
+
+
+nazwa pliku: instances/custom/06.400-20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 380
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 380 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 21.0141339302063 sekund.
+
+
+nazwa pliku: instances/custom/07.500-30
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 470
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 470 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 27.803998708724976 sekund.
+
+
+nazwa pliku: instances/custom/08.500-10
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 490
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 490 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 29.340867042541504 sekund.
+
+
+nazwa pliku: instances/custom/09.200-10
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 190
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 190 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 9.046229839324951 sekund.
+
+
+nazwa pliku: instances/custom/10.200-20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 180
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 180 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 8.596341133117676 sekund.
+
+
+nazwa pliku: instances/custom/11.300-20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 280
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 280 wyrazów.
+Znalezione zosta³o w 8. iteracji.
+Ogó³em wykonano 38 iteracji.
+Obliczenia trwa³y 16.139479398727417 sekund.
+
+
+nazwa pliku: instances/custom/12.300-32
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 268
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 268 wyrazów.
+Znalezione zosta³o w 4. iteracji.
+Ogó³em wykonano 34 iteracji.
+Obliczenia trwa³y 13.764647722244263 sekund.
+
+
+nazwa pliku: instances/custom/13.400-30
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 370
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 370 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 20.232938528060913 sekund.
+
+
+nazwa pliku: instances/custom/14.400-45
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 355
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 355 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 20.194251537322998 sekund.
+
+
+nazwa pliku: instances/custom/15.500-40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 460
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 460 wyrazów.
+Znalezione zosta³o w 26. iteracji.
+Ogó³em wykonano 56 iteracji.
+Obliczenia trwa³y 44.71142244338989 sekund.
+
+
+nazwa pliku: instances/custom/16.500-52
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 448
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 445 wyrazów.
+Znalezione zosta³o w 4. iteracji.
+Ogó³em wykonano 34 iteracji.
+Obliczenia trwa³y 26.12824058532715 sekund.
+
+
+nazwa pliku: instances/custom/17.100+40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 109
+liczba oligonukleotydów: 140
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 87 wyrazów.
+Znalezione zosta³o w 37. iteracji.
+Ogó³em wykonano 67 iteracji.
+Obliczenia trwa³y 6.01521372795105 sekund.
+
+
+nazwa pliku: instances/custom/18.200+40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 240
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 184 wyrazów.
+Znalezione zosta³o w 37. iteracji.
+Ogó³em wykonano 67 iteracji.
+Obliczenia trwa³y 14.998935222625732 sekund.
+
+
+nazwa pliku: instances/custom/19.200+80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 280
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 148 wyrazów.
+Znalezione zosta³o w 17. iteracji.
+Ogó³em wykonano 47 iteracji.
+Obliczenia trwa³y 8.827498197555542 sekund.
+
+
+nazwa pliku: instances/custom/20.300+60
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 360
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 249 wyrazów.
+Znalezione zosta³o w 9. iteracji.
+Ogó³em wykonano 39 iteracji.
+Obliczenia trwa³y 14.780183792114258 sekund.
+
+
+nazwa pliku: instances/custom/21.300+120
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 420
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 206 wyrazów.
+Znalezione zosta³o w 41. iteracji.
+Ogó³em wykonano 71 iteracji.
+Obliczenia trwa³y 22.006139993667603 sekund.
+
+
+nazwa pliku: instances/custom/22.400+80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 480
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 320 wyrazów.
+Znalezione zosta³o w 37. iteracji.
+Ogó³em wykonano 67 iteracji.
+Obliczenia trwa³y 35.59082627296448 sekund.
+
+
+nazwa pliku: instances/custom/23.400+160
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 560
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 294 wyrazów.
+Znalezione zosta³o w 43. iteracji.
+Ogó³em wykonano 73 iteracji.
+Obliczenia trwa³y 35.32783365249634 sekund.
+
+
+nazwa pliku: instances/custom/24.500+150
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 650
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 370 wyrazów.
+Znalezione zosta³o w 38. iteracji.
+Ogó³em wykonano 68 iteracji.
+Obliczenia trwa³y 45.8012797832489 sekund.
+
+
+nazwa pliku: instances/custom/25.100-20+20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 109
+liczba oligonukleotydów: 100
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 80 wyrazów.
+Znalezione zosta³o w 3. iteracji.
+Ogó³em wykonano 33 iteracji.
+Obliczenia trwa³y 3.3591525554656982 sekund.
+
+
+nazwa pliku: instances/custom/26.200-20+20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 200
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 180 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 8.390029907226562 sekund.
+
+
+nazwa pliku: instances/custom/27.200-20+40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 220
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 180 wyrazów.
+Znalezione zosta³o w 5. iteracji.
+Ogó³em wykonano 35 iteracji.
+Obliczenia trwa³y 8.54625129699707 sekund.
+
+
+nazwa pliku: instances/custom/28.200-40+20
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 180
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 160 wyrazów.
+Znalezione zosta³o w 12. iteracji.
+Ogó³em wykonano 42 iteracji.
+Obliczenia trwa³y 9.644516229629517 sekund.
+
+
+nazwa pliku: instances/custom/29.200-40+40
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 209
+liczba oligonukleotydów: 200
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 160 wyrazów.
+Znalezione zosta³o w 9. iteracji.
+Ogó³em wykonano 39 iteracji.
+Obliczenia trwa³y 8.940390586853027 sekund.
+
+
+nazwa pliku: instances/custom/30.300-80+80
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 300
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 220 wyrazów.
+Znalezione zosta³o w 4. iteracji.
+Ogó³em wykonano 34 iteracji.
+Obliczenia trwa³y 12.193831443786621 sekund.
+
+
+nazwa pliku: instances/custom/31.300-100+100
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 309
+liczba oligonukleotydów: 300
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 200 wyrazów.
+Znalezione zosta³o w 13. iteracji.
+Ogó³em wykonano 43 iteracji.
+Obliczenia trwa³y 13.249059677124023 sekund.
+
+
+nazwa pliku: instances/custom/32.400-100+100
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 400
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 300 wyrazów.
+Znalezione zosta³o w 4. iteracji.
+Ogó³em wykonano 34 iteracji.
+Obliczenia trwa³y 17.704038381576538 sekund.
+
+
+nazwa pliku: instances/custom/33.400-150+150
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 400
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 250 wyrazów.
+Znalezione zosta³o w 9. iteracji.
+Ogó³em wykonano 39 iteracji.
+Obliczenia trwa³y 16.170727491378784 sekund.
+
+
+nazwa pliku: instances/custom/34.500-150+150
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 500
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 350 wyrazów.
+Znalezione zosta³o w 4. iteracji.
+Ogó³em wykonano 34 iteracji.
+Obliczenia trwa³y 23.123359203338623 sekund.
+
+
+nazwa pliku: instances/custom/35.500-150+200
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 550
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 348 wyrazów.
+Znalezione zosta³o w 27. iteracji.
+Ogó³em wykonano 57 iteracji.
+Obliczenia trwa³y 37.7559130191803 sekund.
+
+
+nazwa pliku: instances/custom/36.500-200+150
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 450
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 299 wyrazów.
+Znalezione zosta³o w 42. iteracji.
+Ogó³em wykonano 72 iteracji.
+Obliczenia trwa³y 38.70131540298462 sekund.
+
+
+nazwa pliku: instances/custom/37.500-200+200
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 509
+liczba oligonukleotydów: 500
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 291 wyrazów.
+Znalezione zosta³o w 6. iteracji.
+Ogó³em wykonano 36 iteracji.
+Obliczenia trwa³y 20.0476291179657 sekund.
+
+
