@@ -1,0 +1,11 @@
+nazwa pliku: instances/negative_random/68.400-160
+d³ugoœæ s³owa: 10
+oryginalna d³ugoœæ sekwencji: 409
+liczba oligonukleotydów: 240
+
+Najlepsze rozwi¹zanie zosta³o z³o¿one z 236 wyrazów.
+Znalezione zosta³o w 30. iteracji.
+Ogó³em wykonano 60 iteracji.
+Obliczenia trwa³y 29.975794792175293 sekund.
+
+
